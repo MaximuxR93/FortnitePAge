@@ -9,7 +9,7 @@ A visually engaging website inspired by modern UI/UX design principles, featurin
 3. [Features](#features)  
 4. [Quick Start](#quick-start)  
 5. [Deployment](#deployment)  
-6. [Live Preview](#live-preview)  
+6. [Live Preview](https://precious-froyo-c09f17.netlify.app/)  
 7. [Assets](#assets)  
 8. [Screenshots](#screenshots)
 
