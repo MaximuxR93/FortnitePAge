@@ -9,12 +9,13 @@ A visually engaging website inspired by modern UI/UX design principles, featurin
 3. [Features](#features)  
 4. [Quick Start](#quick-start)  
 5. [Deployment](#deployment)  
-6. [Assets](#assets)  
-7. [Screenshots](#screenshots)
+6. [Live Preview](#live-preview)  
+7. [Assets](#assets)  
+8. [Screenshots](#screenshots)
 
 ## 🤖 Introduction
 
-This project, `Fortnite Page`, builds a dynamic website with smooth animations and a modern design, inspired by an [Awwwards-winning tutorial](https://github.com/adrianhajdin/award-winning-website). It features custom components like `Hero`, `NavBar`, `FloatingImage`, and `VideoPreview`, styled with a blue theme (`text-blue-600`, `bg-blue-50`, `bg-blue-900`). The site is deployed on Netlify at [fortnite-page.netlify.app]precious-froyo-c09f17.netlify.app).
+This project, `Fortnite Page`, builds a dynamic website with smooth animations and a modern design, inspired by an [Awwwards-winning tutorial](https://github.com/adrianhajdin/award-winning-website). It features custom components like `Hero`, `NavBar`, `FloatingImage`, and `VideoPreview`, styled with a blue theme (`text-blue-600`, `bg-blue-50`, `bg-blue-900`). The site is deployed on Netlify at [precious-froyo-c09f17.netlify.app](https://precious-froyo-c09f17.netlify.app).
 
 ## ⚙️ Tech Stack
 
