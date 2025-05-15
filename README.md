@@ -1,13 +1,8 @@
 # Fortnite Page
 
 A visually engaging website inspired by modern UI/UX design principles, featuring scroll-triggered animations, video storytelling, and a responsive layout. This project is a customized version of an Awwwards-winning website tutorial, tailored with a blue theme and Fortnite-inspired elements.
-
-## 📋 Table of Contents
-
-  
-5. [Deployment](#deployment)  
-6. [Live Preview](https://precious-froyo-c09f17.netlify.app/)  
-8. [Screenshots](./project Preview)
+ 
+ [Live Preview](https://precious-froyo-c09f17.netlify.app/)  
 
 ## 🤖 Introduction
 
