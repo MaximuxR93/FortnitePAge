@@ -30,7 +30,7 @@ const About = () => {
     <div id="about" className="min-h-screen w-screen">
       <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
-          Welcome to Zentry
+          Welcome to Overorld
         </p>
 
         <AnimatedTitle
@@ -39,10 +39,10 @@ const About = () => {
         />
 
         <div className="about-subtext">
-          <p>The Game of Games begins—your life, now an epic MMORPG</p>
+          <p>We play , We learn , We build together</p>
           <p className="text-gray-500">
-            Zentry unites every player from countless games and platforms, both
-            digital and physical, into a unified Play Economy
+            Where every season brings you new surprises
+            making your dreams Come true.
           </p>
         </div>
       </div>
